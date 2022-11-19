@@ -1,2 +1,2 @@
-# Guess_Word_Numpy
- Console app - guess word with numpy
+# GuessWordNumpy
+ Aplikacja konsolowa, która próbuje odgadnąć zaimplementowane słowo oraz zwraca ilość podejść.
